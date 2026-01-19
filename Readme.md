@@ -1,12 +1,12 @@
-# 🎵 AI Music Genre Classifier
+## AI Music Genre Classifier
 
 An AI-powered music classification system using Convolutional Neural Networks (CNN) to classify music into Rock, Classical, and Jazz genres.
 
-## 🎯 Project Overview
+ ## Project Overview
 
 Built a deep learning model that analyzes audio spectrograms to classify music genres with high accuracy.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **PyTorch** - Deep learning framework
 - **Python** - Core programming language
@@ -14,7 +14,7 @@ Built a deep learning model that analyzes audio spectrograms to classify music g
 - **Matplotlib** - Data visualization
 - **CNNs** - Convolutional Neural Networks for audio processing
 
-## 📊 Results
+## Results
 
 - **Accuracy:** 95-100% on test set
 - **Training Time:** ~2 minutes on CPU
@@ -23,7 +23,7 @@ Built a deep learning model that analyzes audio spectrograms to classify music g
 ![Training Curves](training_curves.png)
 ![Spectrograms](genre_spectrograms.png)
 
-## 🚀 How to Run
+##  How to Run
 ```bash
 # Install dependencies
 pip install torch numpy matplotlib scipy tqdm
@@ -32,7 +32,7 @@ pip install torch numpy matplotlib scipy tqdm
 python music_classifier_complete.py
 ```
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Audio signal processing and spectrogram generation
 - CNN architecture design and optimization
@@ -40,7 +40,7 @@ python music_classifier_complete.py
 - Data visualization and model evaluation
 - Working with audio data for machine learning
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 - Add more music genres (Hip-Hop, EDM, Country)
 - Train on real MP3 files from datasets
@@ -48,7 +48,7 @@ python music_classifier_complete.py
 - Implement transfer learning with pre-trained models
 - Add music generation capabilities with Transformers
 
-## 👨‍💻 Author
+##  Author
 
 **Your Name** - Akshat Kandwal CS Student at University of Waterloo
 
