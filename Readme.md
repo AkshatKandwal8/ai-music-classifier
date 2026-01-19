@@ -50,14 +50,6 @@ python music_classifier_complete.py
 
 ## 👨‍💻 Author
 
-**Your Name** - First-year CS Student at University of Waterloo
-
-## 📫 Contact
-
-- Email: your.email@uwaterloo.ca
-- LinkedIn: [Your Profile]
-- GitHub: [Your Username]
-
----
+**Your Name** - Akshat Kandwal CS Student at University of Waterloo
 
 *Built as part of my journey learning AI/ML in first year!*
